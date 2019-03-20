@@ -1,0 +1,12 @@
+mat-card {
+  margin: 50px;
+  background-color: white;
+}
+
+.mat-cell {
+  padding-right: 20px;
+}
+
+.mat-row:hover {
+  background-color: #f9f9f9;
+}
